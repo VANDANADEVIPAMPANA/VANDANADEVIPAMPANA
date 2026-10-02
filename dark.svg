@@ -1,98 +1,115 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1180" height="610" viewBox="0 0 1180 610" role="img" aria-label="Vandana Devi GitHub profile">
-<defs>
-<linearGradient id="accent" x1="0%" y1="0%" x2="100%" y2="100%">
-<stop offset="0%" stop-color="#7C3AED"><animate attributeName="stop-color" values="#7C3AED;#22D3EE;#10B981;#7C3AED" dur="8s" repeatCount="indefinite"/></stop>
-<stop offset="50%" stop-color="#22D3EE"><animate attributeName="stop-color" values="#22D3EE;#10B981;#7C3AED;#22D3EE" dur="8s" repeatCount="indefinite"/></stop>
-<stop offset="100%" stop-color="#10B981"><animate attributeName="stop-color" values="#10B981;#7C3AED;#22D3EE;#10B981" dur="8s" repeatCount="indefinite"/></stop>
-</linearGradient>
-<radialGradient id="bgGlow"><stop stop-color="#2563EB" stop-opacity=".18"/><stop offset="1" stop-color="#2563EB" stop-opacity="0"/></radialGradient>
-<radialGradient id="violetGlow"><stop stop-color="#7C3AED" stop-opacity=".14"/><stop offset="1" stop-color="#7C3AED" stop-opacity="0"/></radialGradient>
-<filter id="glow"><feGaussianBlur stdDeviation="4" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
-<clipPath id="round"><rect x="8" y="8" width="1164" height="594" rx="30"/></clipPath>
-</defs>
+<div align="center">
 
-<rect width="1180" height="610" rx="30" fill="#030712"/>
-<g clip-path="url(#round)">
-<circle cx="140" cy="100" r="280" fill="url(#bgGlow)"><animateTransform attributeName="transform" type="translate" values="0 0;45 25;0 0" dur="12s" repeatCount="indefinite"/></circle>
-<circle cx="1060" cy="510" r="300" fill="url(#violetGlow)"><animateTransform attributeName="transform" type="translate" values="0 0;-40 -20;0 0" dur="14s" repeatCount="indefinite"/></circle>
+  <h1>👋 Hi there, I'm <a href="https://github.com/VANDANADEVIPAMPANA">Vandana Devi Pampana</a></h1>
 
-<g fill="#22D3EE" opacity=".5">
-<circle cx="55" cy="80" r="2"><animate attributeName="cy" values="80;60;80" dur="4s" repeatCount="indefinite"/></circle>
-<circle cx="330" cy="540" r="1.5"><animate attributeName="cy" values="540;515;540" dur="5s" repeatCount="indefinite"/></circle>
-<circle cx="1120" cy="105" r="2"><animate attributeName="cy" values="105;125;105" dur="4.5s" repeatCount="indefinite"/></circle>
-</g>
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00D2FF&center=true&vCenter=true&width=520&lines=B.Tech+Computer+Science+Student;Full-Stack+%26+MERN+Developer;Java+%26+Python+Enthusiast;Exploring+AI+%26+Machine+Learning" alt="Typing SVG" />
+  </a>
 
-<!-- LEFT -->
-<rect x="28" y="28" width="420" height="554" rx="24" fill="#0F172A" fill-opacity=".72" stroke="#FFFFFF" stroke-opacity=".08"/>
-<rect x="29" y="29" width="418" height="552" rx="23" fill="none" stroke="url(#accent)" stroke-opacity=".45">
-<animate attributeName="stroke-opacity" values=".2;.65;.2" dur="4s" repeatCount="indefinite"/>
-</rect>
-<text x="58" y="72" fill="#94A3B8" font-family="monospace" font-size="13">$ whoami</text>
-<text x="58" y="101" fill="#F8FAFC" font-family="monospace" font-size="16">vandana@github:~$</text>
+  <p align="center">
+    <a href="https://www.linkedin.com/in/vandanadevi-pampana-6415aa374/" target="_blank">
+      <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    </a>
+    <a href="https://github.com/VANDANADEVIPAMPANA" target="_blank">
+      <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+    </a>
+  </p>
 
-<g font-family="monospace" font-size="15" font-weight="700" fill="url(#accent)" filter="url(#glow)">
-<text x="64" y="145" opacity="0">      .-''''-.<animate attributeName="opacity" begin=".2s" dur=".5s" to="1" fill="freeze"/></text>
-<text x="64" y="163" opacity="0">    .'  .--.  '.<animate attributeName="opacity" begin=".4s" dur=".5s" to="1" fill="freeze"/></text>
-<text x="64" y="181" opacity="0">   /   /    \   \<animate attributeName="opacity" begin=".6s" dur=".5s" to="1" fill="freeze"/></text>
-<text x="64" y="199" opacity="0">  ;   |  ()  |   ;<animate attributeName="opacity" begin=".8s" dur=".5s" to="1" fill="freeze"/></text>
-<text x="64" y="217" opacity="0">  |   |  __  |   |<animate attributeName="opacity" begin="1s" dur=".5s" to="1" fill="freeze"/></text>
-<text x="64" y="235" opacity="0">  ;    \____/    ;<animate attributeName="opacity" begin="1.2s" dur=".5s" to="1" fill="freeze"/></text>
-<text x="64" y="253" opacity="0">   \            /<animate attributeName="opacity" begin="1.4s" dur=".5s" to="1" fill="freeze"/></text>
-<text x="64" y="271" opacity="0">    '.        .'<animate attributeName="opacity" begin="1.6s" dur=".5s" to="1" fill="freeze"/></text>
-<text x="64" y="289" opacity="0">      '------'<animate attributeName="opacity" begin="1.8s" dur=".5s" to="1" fill="freeze"/></text>
-</g>
+</div>
 
-<g font-family="monospace" font-size="13" fill="#94A3B8">
-<text x="62" y="335">/* building skills, one project at a time */</text>
-<text x="62" y="365" fill="#22D3EE">const focus = "Java Full Stack";</text>
-<text x="62" y="391" fill="#10B981">const passion = "Web + AI";</text>
-<text x="62" y="430">learning...</text>
-<rect x="145" y="418" width="8" height="17" fill="#22D3EE"><animate attributeName="opacity" values="1;0;1" dur="1s" repeatCount="indefinite"/></rect>
-</g>
+---
 
-<!-- RIGHT -->
-<rect x="470" y="28" width="682" height="554" rx="24" fill="#0F172A" fill-opacity=".78" stroke="#FFFFFF" stroke-opacity=".08"/>
-<rect x="471" y="29" width="680" height="552" rx="23" fill="none" stroke="url(#accent)" stroke-opacity=".35"/>
-<circle cx="500" cy="57" r="6" fill="#7C3AED"/><circle cx="520" cy="57" r="6" fill="#22D3EE"/><circle cx="540" cy="57" r="6" fill="#10B981"/>
-<text x="575" y="62" fill="#64748B" font-family="Arial" font-size="12">vandana.dev — profile</text>
+### 💫 About Me
 
-<text x="510" y="108" fill="#94A3B8" font-family="monospace" font-size="14">Hi 👋</text>
-<text x="510" y="145" fill="#F8FAFC" font-family="Arial" font-size="34" font-weight="700">I'm Vandana Devi</text>
-<rect x="510" y="164" width="610" height="1" fill="#FFFFFF" opacity=".07"/>
+- 🎓 **Education:** Pursuing **B.Tech in Computer Science and Engineering**
+- 💻 **Core Focus:** Java Full-Stack Development, MERN Stack, and Data Science
+- 🚀 **Currently Building:** Full-stack web applications and machine learning projects
+- 🎯 **Current Goal:** Sharpening problem-solving skills in Data Structures & Algorithms and developing scalable software
+- 💬 **Ask me about:** Java, React, Node.js, Python, and DBMS
+- 📫 **Let's Connect:** [LinkedIn](https://www.linkedin.com/in/vandanadevi-pampana-6415aa374/)
 
-<g font-family="monospace" font-size="17" fill="url(#accent)">
-<text x="510" y="202">&gt; Java Full Stack Developer</text>
-<text x="510" y="225" fill="#22D3EE">&gt; Web Developer</text>
-<text x="510" y="248" fill="#10B981">&gt; AI Enthusiast</text>
-<rect x="760" y="187" width="8" height="20" fill="#22D3EE"><animate attributeName="opacity" values="1;0;1" dur="1s" repeatCount="indefinite"/></rect>
-</g>
+---
 
-<g font-family="Arial" font-size="14" fill="#94A3B8">
-<text x="510" y="282">📍 India</text>
-<text x="510" y="310">🎓 B.Tech Student — Aditya University</text>
-<text x="510" y="338">💻 Learning Java Full Stack Development</text>
-<text x="510" y="366">🌐 Interested in Web Development</text>
-<text x="510" y="394">🤖 Exploring Generative AI</text>
-</g>
+### 🛠️ Skills & Technologies
 
-<text x="510" y="430" fill="#F8FAFC" font-family="Arial" font-size="15" font-weight="700">SKILLS</text>
-<g font-family="Arial" font-size="12" fill="#E2E8F0">
-<g><rect x="510" y="447" width="65" height="28" rx="14" fill="#111C33" stroke="#22D3EE" stroke-opacity=".45"/><text x="528" y="465">Java</text></g>
-<g><rect x="583" y="447" width="70" height="28" rx="14" fill="#111C33" stroke="#22D3EE" stroke-opacity=".45"/><text x="602" y="465">Python</text></g>
-<g><rect x="661" y="447" width="78" height="28" rx="14" fill="#111C33" stroke="#7C3AED" stroke-opacity=".5"/><text x="679" y="465">React</text></g>
-<g><rect x="747" y="447" width="78" height="28" rx="14" fill="#111C33" stroke="#7C3AED" stroke-opacity=".5"/><text x="766" y="465">SQL</text></g>
-<g><rect x="833" y="447" width="78" height="28" rx="14" fill="#111C33" stroke="#10B981" stroke-opacity=".5"/><text x="851" y="465">HTML/CSS</text></g>
-<g><rect x="919" y="447" width="68" height="28" rx="14" fill="#111C33" stroke="#10B981" stroke-opacity=".5"/><text x="936" y="465">Git</text></g>
-<g><rect x="995" y="447" width="105" height="28" rx="14" fill="#111C33" stroke="#22D3EE" stroke-opacity=".45"/><text x="1012" y="465">Generative AI</text></g>
-</g>
+<div align="left">
 
-<text x="510" y="515" fill="#94A3B8" font-family="monospace" font-size="13">$ git remote -v</text>
-<text x="510" y="540" fill="#22D3EE" font-family="monospace" font-size="13">github.com/VANDANADEVIPAMPANA</text>
-<text x="510" y="565" fill="#64748B" font-family="Arial" font-size="11">Building • Learning • Exploring</text>
+#### 💻 Programming Languages
+<p>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+</p>
 
-<rect x="20" y="35" width="1140" height="2" fill="#22D3EE" opacity=".08">
-<animateTransform attributeName="transform" type="translate" values="0 0;0 540;0 0" dur="7s" repeatCount="indefinite"/>
-</rect>
-</g>
-<rect x="8" y="8" width="1164" height="594" rx="30" fill="none" stroke="url(#accent)" stroke-opacity=".35"/>
-</svg>
+#### 🌐 Web & Full-Stack Development (MERN)
+<p>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
+  <img src="https://img.shields.io/badge/REST_API-005571?style=for-the-badge&logo=fastapi&logoColor=white" alt="REST API" />
+</p>
+
+#### 📊 Data Science & Core CS
+<p>
+  <img src="https://img.shields.io/badge/Data_Structures-4A154B?style=for-the-badge&logoColor=white" alt="DSA" />
+  <img src="https://img.shields.io/badge/DBMS_&_SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="DBMS" />
+  <img src="https://img.shields.io/badge/Operating_Systems-2C3E50?style=for-the-badge&logoColor=white" alt="OS" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter" />
+</p>
+
+#### 🔧 Tools & Platforms
+<p>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code" />
+</p>
+
+</div>
+
+---
+
+### 📂 Featured Projects
+
+| Project | Description | Tech Stack |
+| :--- | :--- | :--- |
+| 🎟️ [**Online Event Ticketing System**](https://github.com/VANDANADEVIPAMPANA/Online-event-ticketing-system) | Web application allowing users to discover events, browse schedules, and reserve tickets seamlessly. | `JavaScript`, `HTML5`, `CSS3` |
+| 📰 [**Fake News Detection**](https://github.com/VANDANADEVIPAMPANA/fakenewsdetectionproject) | Machine learning pipeline that processes and classifies news articles to identify misinformation. | `Python`, `ML`, `Jupyter` |
+| 📊 [**Inventory & Sales Management**](https://github.com/VANDANADEVIPAMPANA/inventory-and-sales-management-system) | Enterprise application designed to track stock levels, monitor sales transactions, and generate reports. | `Java`, `DBMS` |
+
+<details>
+<summary><b>📚 Academic & Lab Repositories (Click to expand)</b></summary>
+
+- 🌐 [mernstack-lab](https://github.com/VANDANADEVIPAMPANA/mernstack-lab) — Practical MERN stack implementations and hands-on exercises
+- ☕ [java-lab-](https://github.com/VANDANADEVIPAMPANA/java-lab-) — Object-oriented programming concepts and algorithms in Java
+- 📈 [Data-Mining-Lab](https://github.com/VANDANADEVIPAMPANA/Data-Mining-Lab) — Data preprocessing, classification, and clustering tasks
+- 🌳 [ADS](https://github.com/VANDANADEVIPAMPANA/ADS) — Advanced Data Structures & Algorithm implementations
+- 💾 [DBMS](https://github.com/VANDANADEVIPAMPANA/DBMS) — Database designs, relational schemas, and SQL queries
+- ⚙️ [operating-system](https://github.com/VANDANADEVIPAMPANA/operating-system) — OS scheduling algorithms, memory management, and C system programs
+
+</details>
+
+---
+
+### 📊 GitHub Activity & Statistics
+
+<div align="center">
+
+  <img src="https://github-readme-stats.vercel.app/api?username=VANDANADEVIPAMPANA&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="Vandana's GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VANDANADEVIPAMPANA&layout=compact&theme=radical&hide_border=true" alt="Top Languages" width="48%" />
+
+  <br />
+
+  <img src="https://streak-stats.demolab.com?user=VANDANADEVIPAMPANA&theme=radical&hide_border=true" alt="GitHub Streak" width="97%" />
+
+</div>
+
+---
+
+<div align="center">
+  <sub>✨ Designed with care for <b>Vandana Devi Pampana</b> • Thanks for visiting!</sub>
+</div>
