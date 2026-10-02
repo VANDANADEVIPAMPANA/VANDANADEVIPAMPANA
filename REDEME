@@ -1,0 +1,113 @@
+<div align="center">
+
+  <h1>👋 Hi there, I'm <a href="https://github.com/VANDANADEVIPAMPANA">Vandana Devi Pampana</a></h1>
+
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00D2FF&center=true&vCenter=true&width=520&lines=B.Tech+Computer+Science+Student;Full-Stack+%26+MERN+Developer;Java+%26+Python+Enthusiast;Exploring+AI+%26+Machine+Learning" alt="Typing SVG" />
+
+  <p align="center">
+    <a href="https://www.linkedin.com/in/vandanadevi-pampana-6415aa374/" target="_blank">
+      <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    </a>
+    <a href="https://github.com/VANDANADEVIPAMPANA" target="_blank">
+      <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+    </a>
+  </p>
+
+</div>
+
+---
+
+### 💫 About Me
+
+- 🎓 **Education:** Pursuing **B.Tech in Computer Science and Engineering**
+- 💻 **Core Focus:** Java Full-Stack Development, MERN Stack, and Software Engineering
+- 🚀 **Currently Building:** Full-stack web applications and machine learning projects
+- 🎯 **Goals:** Problem solving with Data Structures & Algorithms and building scalable systems
+- 💬 **Ask me about:** Java, React, Node.js, Python, and DBMS
+- 📫 **Connect with me:** [LinkedIn](https://www.linkedin.com/in/vandanadevi-pampana-6415aa374/)
+
+---
+
+### 🛠️ Skills & Technologies
+
+<div align="left">
+
+#### 💻 Programming Languages
+<p>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+</p>
+
+#### 🌐 Web & Full-Stack Development (MERN)
+<p>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
+  <img src="https://img.shields.io/badge/REST_API-005571?style=for-the-badge&logo=fastapi&logoColor=white" alt="REST API" />
+</p>
+
+#### 📊 Data Science & Core CS
+<p>
+  <img src="https://img.shields.io/badge/Data_Structures-4A154B?style=for-the-badge&logoColor=white" alt="DSA" />
+  <img src="https://img.shields.io/badge/DBMS_&_SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="DBMS" />
+  <img src="https://img.shields.io/badge/Operating_Systems-2C3E50?style=for-the-badge&logoColor=white" alt="OS" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter" />
+</p>
+
+#### 🔧 Tools & Platforms
+<p>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code" />
+</p>
+
+</div>
+
+---
+
+### 📂 Featured Projects
+
+| Project | Description | Tech Stack |
+| :--- | :--- | :--- |
+| 🎟️ [**Online Event Ticketing System**](https://github.com/VANDANADEVIPAMPANA/Online-event-ticketing-system) | Web application allowing users to discover events, browse schedules, and reserve tickets seamlessly. | `JavaScript`, `HTML5`, `CSS3` |
+| 📰 [**Fake News Detection**](https://github.com/VANDANADEVIPAMPANA/fakenewsdetectionproject) | Machine learning pipeline that processes and classifies news articles to identify misinformation. | `Python`, `ML`, `Jupyter` |
+| 📊 [**Inventory & Sales Management**](https://github.com/VANDANADEVIPAMPANA/inventory-and-sales-management-system) | Application designed to track stock levels, monitor sales transactions, and manage inventory. | `Java`, `DBMS` |
+
+<details>
+<summary><b>📚 Academic & Lab Repositories (Click to expand)</b></summary>
+
+- 🌐 [mernstack-lab](https://github.com/VANDANADEVIPAMPANA/mernstack-lab) — Practical MERN stack implementations and hands-on exercises
+- ☕ [java-lab-](https://github.com/VANDANADEVIPAMPANA/java-lab-) — Object-oriented programming concepts and algorithms in Java
+- 📈 [Data-Mining-Lab](https://github.com/VANDANADEVIPAMPANA/Data-Mining-Lab) — Data preprocessing, classification, and clustering tasks
+- 🌳 [ADS](https://github.com/VANDANADEVIPAMPANA/ADS) — Advanced Data Structures & Algorithm implementations
+- 💾 [DBMS](https://github.com/VANDANADEVIPAMPANA/DBMS) — Database designs, relational schemas, and SQL queries
+- ⚙️ [operating-system](https://github.com/VANDANADEVIPAMPANA/operating-system) — OS scheduling algorithms, memory management, and C system programs
+
+</details>
+
+---
+
+### 📊 GitHub Activity & Statistics
+
+<div align="center">
+
+  <img src="https://github-readme-stats.vercel.app/api?username=VANDANADEVIPAMPANA&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="Vandana's GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VANDANADEVIPAMPANA&layout=compact&theme=radical&hide_border=true" alt="Top Languages" width="48%" />
+
+  <br />
+
+  <img src="https://streak-stats.demolab.com?user=VANDANADEVIPAMPANA&theme=radical&hide_border=true" alt="GitHub Streak" width="97%" />
+
+</div>
+
+---
+
+<div align="center">
+  <sub>✨ Designed for <b>Vandana Devi Pampana</b> • Thanks for visiting!</sub>
+</div>
