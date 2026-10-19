@@ -1,0 +1,63 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 280" width="1200" height="280" role="img" aria-labelledby="am-title am-desc">
+  <title id="am-title">Profiles &amp; Coding Achievements</title>
+  <desc id="am-desc">LeetCode: vandanadevi, CodeChef: vandanadevi_28, HackerRank: pampanavandanad1, Aditya University AIML.</desc>
+  <defs>
+    <linearGradient id="am-bg" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#190B12"/><stop offset="1" stop-color="#10070C"/></linearGradient>
+    <radialGradient id="am-glow" cx="80%" cy="10%" r="70%"><stop offset="0" stop-color="#701A3D" stop-opacity=".55"/><stop offset="1" stop-color="#451126" stop-opacity="0"/></radialGradient>
+    <linearGradient id="am-sheen" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#F8F0F3" stop-opacity="0"/><stop offset=".5" stop-color="#F8F0F3" stop-opacity=".12"/><stop offset="1" stop-color="#F8F0F3" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+  <style>
+    .am-serif { font-family: Georgia, "Iowan Old Style", "Palatino Linotype", "Times New Roman", serif; }
+    .am-mono { font-family: ui-monospace, SFMono-Regular, Menlo, Consolas, "Liberation Mono", monospace; }
+    .am-sans { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif; }
+    .am-card { animation: am-in 1s cubic-bezier(.16,1,.3,1) both; }
+    @keyframes am-in { from { opacity: 0; transform: translateY(14px); } to { opacity: 1; transform: none; } }
+    @media (prefers-reduced-motion: reduce) { .am-card { animation: none; } }
+  </style>
+
+  <rect width="1200" height="280" rx="20" fill="url(#am-bg)"/>
+  <rect width="1200" height="280" rx="20" fill="url(#am-glow)"/>
+  <rect x=".5" y=".5" width="1199" height="279" rx="19.5" fill="none" stroke="#701A3D" stroke-opacity=".35"/>
+
+  <!-- Card 1: LeetCode -->
+  <g class="am-card" style="animation-delay:.1s" transform="translate(40, 40)">
+    <rect width="260" height="200" rx="16" fill="#14090F" stroke="#701A3D" stroke-width="1"/>
+    <rect x="0" y="0" width="260" height="4" rx="2" fill="#FFA116"/>
+    <text class="am-mono" x="22" y="36" font-size="11" letter-spacing="2" fill="#FFA116">LEETCODE</text>
+    <text class="am-serif" x="22" y="80" font-size="28" font-weight="300" fill="#F8F0F3">vandanadevi</text>
+    <text class="am-sans" x="22" y="112" font-size="13" fill="#B6A3AC">Data Structures &amp; Algorithms</text>
+    <text class="am-mono" x="22" y="160" font-size="11" letter-spacing="1" fill="#E5B5C7">✦ Active Problem Solving</text>
+  </g>
+
+  <!-- Card 2: CodeChef -->
+  <g class="am-card" style="animation-delay:.25s" transform="translate(325, 40)">
+    <rect width="260" height="200" rx="16" fill="#14090F" stroke="#701A3D" stroke-width="1"/>
+    <rect x="0" y="0" width="260" height="4" rx="2" fill="#C77B9B"/>
+    <text class="am-mono" x="22" y="36" font-size="11" letter-spacing="2" fill="#C77B9B">CODECHEF</text>
+    <text class="am-serif" x="22" y="80" font-size="26" font-weight="300" fill="#F8F0F3">vandanadevi_28</text>
+    <text class="am-sans" x="22" y="112" font-size="13" fill="#B6A3AC">Competitive Contests</text>
+    <text class="am-mono" x="22" y="160" font-size="11" letter-spacing="1" fill="#E5B5C7">✦ Algorithmic Challenges</text>
+  </g>
+
+  <!-- Card 3: HackerRank -->
+  <g class="am-card" style="animation-delay:.4s" transform="translate(610, 40)">
+    <rect width="260" height="200" rx="16" fill="#14090F" stroke="#701A3D" stroke-width="1"/>
+    <rect x="0" y="0" width="260" height="4" rx="2" fill="#00EA64"/>
+    <text class="am-mono" x="22" y="36" font-size="11" letter-spacing="2" fill="#00EA64">HACKERRANK</text>
+    <text class="am-serif" x="22" y="80" font-size="22" font-weight="300" fill="#F8F0F3">pampanavandanad1</text>
+    <text class="am-sans" x="22" y="112" font-size="13" fill="#B6A3AC">Skill Badges &amp; Practice</text>
+    <text class="am-mono" x="22" y="160" font-size="11" letter-spacing="1" fill="#E5B5C7">✦ Core Foundations</text>
+  </g>
+
+  <!-- Card 4: Academic Excellence -->
+  <g class="am-card" style="animation-delay:.55s" transform="translate(895, 40)">
+    <rect width="265" height="200" rx="16" fill="#14090F" stroke="#701A3D" stroke-width="1"/>
+    <rect x="0" y="0" width="265" height="4" rx="2" fill="#E5B5C7"/>
+    <text class="am-mono" x="22" y="36" font-size="11" letter-spacing="2" fill="#E5B5C7">ACADEMICS</text>
+    <text class="am-serif" x="22" y="76" font-size="22" font-weight="300" fill="#F8F0F3">Aditya University</text>
+    <text class="am-sans" x="22" y="112" font-size="13" fill="#B6A3AC">B.Tech Artificial Intelligence &amp; ML</text>
+    <text class="am-mono" x="22" y="160" font-size="11" letter-spacing="1" fill="#C77B9B">✦ 5th Sem Engineering</text>
+  </g>
+</svg>

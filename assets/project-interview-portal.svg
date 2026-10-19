@@ -1,0 +1,95 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 370" width="1200" height="370" role="img" aria-labelledby="pip-t">
+  <title id="pip-t">AI Interview Portal: Real-time AI-powered interview simulator with dynamic evaluation.</title>
+  <defs>
+    <linearGradient id="pip-bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#190B12"/><stop offset="1" stop-color="#10070C"/>
+    </linearGradient>
+    <radialGradient id="pip-glow" cx="82%" cy="30%" r="55%">
+      <stop offset="0" stop-color="#701A3D" stop-opacity=".75"/><stop offset="1" stop-color="#451126" stop-opacity="0"/>
+    </radialGradient>
+    <pattern id="pip-grid" width="28" height="28" patternUnits="userSpaceOnUse">
+      <path d="M28 0H0V28" fill="none" stroke="#C77B9B" stroke-opacity=".08"/>
+    </pattern>
+    <clipPath id="pip-clip"><rect width="1200" height="370" rx="18"/></clipPath>
+  </defs>
+  <style>
+    .pip-serif { font-family: Georgia, "Iowan Old Style", "Palatino Linotype", "Times New Roman", serif; }
+    .pip-mono { font-family: ui-monospace, SFMono-Regular, Menlo, Consolas, "Liberation Mono", monospace; }
+    .pip-sans { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif; }
+    .pip-in { animation: pip-in 1.1s cubic-bezier(.16,1,.3,1) both; }
+    @keyframes pip-in { from { opacity: 0; transform: translateY(12px); } to { opacity: 1; transform: none; } }
+    @media (prefers-reduced-motion: reduce) { .pip-in { animation: none; } }
+  </style>
+
+  <g clip-path="url(#pip-clip)">
+    <rect width="1200" height="370" fill="url(#pip-bg)"/>
+    <rect x="720" width="480" height="370" fill="url(#pip-grid)"/>
+    <rect width="1200" height="370" fill="url(#pip-glow)"/>
+
+    <g class="pip-in" transform="translate(56, 0)">
+      <text class="pip-mono" x="0" y="60" font-size="12" letter-spacing="2.6" fill="#C77B9B">01 · FULL-STACK · GENERATIVE AI · REACT &amp; TS</text>
+      <text class="pip-serif" x="0" y="122" font-size="48" font-weight="300" letter-spacing="-1" fill="#F8F0F3">AI Interview Portal</text>
+      <text class="pip-sans" x="0" y="162" font-size="17" fill="#B6A3AC">Simulates real-time technical &amp; HR interviews using Google Gemini AI.</text>
+      <text class="pip-mono" x="0" y="198" font-size="12.5" fill="#E5B5C7">
+        <tspan fill="#C77B9B">BUILT ›</tspan> Role-based dynamic Q&amp;A, countdown timers, response scoring &amp; automated PDF generation
+      </text>
+
+      <!-- Metric Cards Row -->
+      <g transform="translate(0, 235)">
+        <g transform="translate(0, 0)">
+          <rect width="180" height="85" rx="12" fill="#14090F" stroke="#701A3D" stroke-width="1"/>
+          <text class="pip-serif" x="18" y="44" font-size="30" font-weight="400" fill="#F8F0F3">Gemini</text>
+          <text class="pip-mono" x="18" y="68" font-size="10.5" letter-spacing="1.5" fill="#C77B9B">LLM EVALUATION</text>
+        </g>
+        <g transform="translate(195, 0)">
+          <rect width="180" height="85" rx="12" fill="#14090F" stroke="#701A3D" stroke-width="1"/>
+          <text class="pip-serif" x="18" y="44" font-size="30" font-weight="400" fill="#F8F0F3">Supabase</text>
+          <text class="pip-mono" x="18" y="68" font-size="10.5" letter-spacing="1.5" fill="#C77B9B">AUTH &amp; POSTGRES</text>
+        </g>
+        <g transform="translate(390, 0)">
+          <rect width="180" height="85" rx="12" fill="#14090F" stroke="#701A3D" stroke-width="1"/>
+          <text class="pip-serif" x="18" y="44" font-size="30" font-weight="400" fill="#F8F0F3">jsPDF</text>
+          <text class="pip-mono" x="18" y="68" font-size="10.5" letter-spacing="1.5" fill="#C77B9B">REPORT EXPORT</text>
+        </g>
+      </g>
+    </g>
+
+    <!-- Right Side Visual Diagram Box -->
+    <g transform="translate(760, 50)">
+      <rect width="380" height="270" rx="14" fill="#14090F" stroke="#C77B9B" stroke-opacity="0.3" stroke-width="1"/>
+      <path d="M 0 40 L 380 40" stroke="#701A3D" stroke-width="1"/>
+      <circle cx="20" cy="20" r="4" fill="#701A3D"/>
+      <circle cx="34" cy="20" r="4" fill="#451126"/>
+      <circle cx="48" cy="20" r="4" fill="#451126"/>
+      <text class="pip-mono" x="200" y="24" text-anchor="middle" font-size="10" letter-spacing="1.5" fill="#B6A3AC">architecture: pipeline</text>
+
+      <!-- Flow nodes inside -->
+      <g transform="translate(30, 65)">
+        <rect width="140" height="36" rx="8" fill="#190B12" stroke="#701A3D"/>
+        <text class="pip-mono" x="70" y="22" text-anchor="middle" font-size="10" fill="#E5B5C7">React / TS Client</text>
+        
+        <path d="M 140 18 L 180 18" stroke="#C77B9B" stroke-width="1.5" stroke-dasharray="2 3"/>
+        
+        <rect x="180" y="0" width="140" height="36" rx="8" fill="#2A0E1B" stroke="#C77B9B"/>
+        <text class="pip-mono" x="250" y="22" text-anchor="middle" font-size="10" fill="#F8F0F3">Edge Functions</text>
+
+        <!-- Down arrow -->
+        <path d="M 250 36 L 250 65" stroke="#C77B9B" stroke-width="1.5" stroke-dasharray="2 3"/>
+        
+        <rect x="180" y="65" width="140" height="36" rx="8" fill="#190B12" stroke="#701A3D"/>
+        <text class="pip-mono" x="250" y="87" text-anchor="middle" font-size="10" fill="#E5B5C7">Gemini API</text>
+
+        <!-- Down to Database -->
+        <path d="M 70 36 L 70 65" stroke="#C77B9B" stroke-width="1.5" stroke-dasharray="2 3"/>
+        <rect x="0" y="65" width="140" height="36" rx="8" fill="#190B12" stroke="#701A3D"/>
+        <text class="pip-mono" x="70" y="87" text-anchor="middle" font-size="10" fill="#E5B5C7">Supabase DB</text>
+
+        <!-- Output Banner -->
+        <rect x="0" y="125" width="320" height="42" rx="8" fill="#10070C" stroke="#701A3D"/>
+        <text class="pip-mono" x="160" y="150" text-anchor="middle" font-size="10.5" letter-spacing="1" fill="#38EF7D">✓ LIVE REPORT &amp; ANALYTICS</text>
+      </g>
+    </g>
+
+    <rect x=".5" y=".5" width="1199" height="369" rx="17.5" fill="none" stroke="#701A3D" stroke-opacity=".4"/>
+  </g>
+</svg>

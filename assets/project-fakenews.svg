@@ -1,0 +1,56 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 320" width="1200" height="320" role="img" aria-labelledby="pfn-t">
+  <title id="pfn-t">Fake News Detection Machine Learning Project</title>
+  <defs>
+    <linearGradient id="pfn-bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#190B12"/><stop offset="1" stop-color="#10070C"/></linearGradient>
+    <radialGradient id="pfn-glow" cx="82%" cy="30%" r="55%"><stop offset="0" stop-color="#701A3D" stop-opacity=".7"/><stop offset="1" stop-color="#451126" stop-opacity="0"/></radialGradient>
+    <pattern id="pfn-grid" width="28" height="28" patternUnits="userSpaceOnUse"><path d="M28 0H0V28" fill="none" stroke="#C77B9B" stroke-opacity=".08"/></pattern>
+    <clipPath id="pfn-clip"><rect width="1200" height="320" rx="18"/></clipPath>
+  </defs>
+  <style>
+    .pfn-serif { font-family: Georgia, "Iowan Old Style", "Palatino Linotype", "Times New Roman", serif; }
+    .pfn-mono { font-family: ui-monospace, SFMono-Regular, Menlo, Consolas, "Liberation Mono", monospace; }
+    .pfn-sans { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif; }
+  </style>
+
+  <g clip-path="url(#pfn-clip)">
+    <rect width="1200" height="320" fill="url(#pfn-bg)"/>
+    <rect x="750" width="450" height="320" fill="url(#pfn-grid)"/>
+    <rect width="1200" height="320" fill="url(#pfn-glow)"/>
+
+    <g transform="translate(56, 0)">
+      <text class="pfn-mono" x="0" y="55" font-size="12" letter-spacing="2.6" fill="#C77B9B">04 · MACHINE LEARNING · NLP &amp; CLASSIFICATION</text>
+      <text class="pfn-serif" x="0" y="112" font-size="44" font-weight="300" letter-spacing="-1" fill="#F8F0F3">Fake News Detection</text>
+      <text class="pfn-sans" x="0" y="152" font-size="16" fill="#B6A3AC">Applying natural language processing to identify misinformation and compute veracity scores.</text>
+      <text class="pfn-mono" x="0" y="186" font-size="12.5" fill="#E5B5C7"><tspan fill="#C77B9B">BUILT ›</tspan> Text tokenization, TF-IDF vectorization, passive aggressive classifier &amp; precision metrics</text>
+
+      <g transform="translate(0, 218)">
+        <g transform="translate(0, 0)">
+          <rect width="180" height="65" rx="10" fill="#14090F" stroke="#701A3D" stroke-width="1"/>
+          <text class="pfn-serif" x="18" y="38" font-size="22" font-weight="400" fill="#F8F0F3">Python</text>
+          <text class="pfn-mono" x="18" y="54" font-size="9.5" letter-spacing="1.5" fill="#C77B9B">ML ECOSYSTEM</text>
+        </g>
+        <g transform="translate(195, 0)">
+          <rect width="180" height="65" rx="10" fill="#14090F" stroke="#701A3D" stroke-width="1"/>
+          <text class="pfn-serif" x="18" y="38" font-size="22" font-weight="400" fill="#F8F0F3">TF-IDF</text>
+          <text class="pfn-mono" x="18" y="54" font-size="9.5" letter-spacing="1.5" fill="#C77B9B">TEXT VECTORIZER</text>
+        </g>
+        <g transform="translate(390, 0)">
+          <rect width="180" height="65" rx="10" fill="#14090F" stroke="#701A3D" stroke-width="1"/>
+          <text class="pfn-serif" x="18" y="38" font-size="22" font-weight="400" fill="#F8F0F3">High Accuracy</text>
+          <text class="pfn-mono" x="18" y="54" font-size="9.5" letter-spacing="1.5" fill="#C77B9B">CONFUSION MATRIX</text>
+        </g>
+      </g>
+    </g>
+
+    <!-- Right Graphic: Signal Wave -->
+    <g transform="translate(830, 65)">
+      <rect width="290" height="190" rx="14" fill="#14090F" stroke="#C77B9B" stroke-opacity=".3" stroke-width="1"/>
+      <circle cx="145" cy="80" r="45" fill="#190B12" stroke="#701A3D" stroke-width="1.5"/>
+      <circle cx="145" cy="80" r="30" fill="none" stroke="#C77B9B" stroke-width="1" stroke-dasharray="3 3"/>
+      <text class="pfn-serif" x="145" y="87" text-anchor="middle" font-size="18" fill="#F8F0F3">AI FACT</text>
+      <text class="pfn-mono" x="145" y="150" text-anchor="middle" font-size="11" letter-spacing="1.5" fill="#38EF7D">STATUS: VERIFIED REAL</text>
+    </g>
+
+    <rect x=".5" y=".5" width="1199" height="319" rx="17.5" fill="none" stroke="#701A3D" stroke-opacity=".4"/>
+  </g>
+</svg>
